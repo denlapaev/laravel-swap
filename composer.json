@@ -32,7 +32,7 @@
     },
     "require": {
         "php": "^5.5|^7.0",
-        "denlapaev/swap": "dev-master#cd01798817fb3179fbeb7a04310045367b4317f7",
+        "denlapaev/swap": "dev-master#bee70b3bb9d07a802385f8e58842ed01356af60c",
         "psr/cache": "^1.0",
         "cache/adapter-common": "^0.3"
     },
